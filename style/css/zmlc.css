@@ -1,0 +1,30 @@
+/*!
+ * author Matthew Lee
+ * date 2015/7/13
+ */
+ span.title{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+hr.title{
+	margin-top: 2px;
+	margin-bottom: 10px;
+	height: 3px;
+	padding: 0px;
+	border: none;
+	border-bottom: 3px solid #555555;
+}
+
+ul.intro{
+	list-style-type: none;
+	padding-left: 0px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+div.right-border{
+	border: none;
+	border-right: 2px solid #555555;
+	height: 100%;	
+}

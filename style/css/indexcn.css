@@ -1,0 +1,75 @@
+/*!
+ * author Matthew Lee
+ * date 2015/7/3
+ */
+a.btn-learnmore{
+	background: #FFFFFF;
+	border-width: 2px;
+	border-style: solid;
+	padding: 10px 14px;
+	border-color: #272727;
+	font-size: 14px;
+    font-family: "Levenim MT";
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-style: normal;
+    display: inline-block;
+	width: auto;
+	height: auto;
+    text-align: center;
+	text-decoration: none;
+    cursor: pointer;
+	outline: none;
+	-webkit-appearance: none;
+	color: #272727;
+	margin-top: 35px;
+	margin-bottom: 60px;
+}
+
+a.btn-learnmore:hover{
+	background-color: #272727;
+	color: #fff;
+}
+
+body{
+font-family: "Arial";
+}
+.sb
+{
+font-family: "Arial";
+}
+
+span.title{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+span.intro{
+	font-size: 12px;
+}
+
+span.introBold{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+li.intro{
+	margin-bottom: 16px;
+}
+
+div.margin-bottom-10{
+	margin-bottom: 10px;
+}
+
+div.margin-bottom-15{
+	margin-bottom: 15px;
+}
+
+div.margin-bottom-50{
+	margin-bottom: 50px;
+}
+
+div.no-padding{
+	padding: 0;
+}
